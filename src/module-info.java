@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mbjew
+ *
+ */
+module Snake {
+}
